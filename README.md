@@ -48,6 +48,13 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 
 ---
 
+<div align="center">
+
+### 🟢 SYSTEM STATUS: ONLINE  
+**Code quietly. Learn deeply. Build systems that last.**
+
+</div>
+
 ## 🌟 About Me
 
 💡 **Flutter & Mobile App Developer from Bangladesh**  
@@ -162,13 +169,6 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 - ☕ Coffee fuels my creativity!
 
 ---
-
-<div align="center">
-
-### 🟢 SYSTEM STATUS: ONLINE  
-**Code quietly. Learn deeply. Build systems that last.**
-
-</div>
 
 <p align="center">
   <b>✨ Thanks for visiting! Looking to collaborate on your next mobile app project?<br>Let's build something amazing together — contact me today! 🚀</b>
