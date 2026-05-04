@@ -15,13 +15,17 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
   <em>Turning ideas into pixel-perfect experiences. Dream. Code. Launch.</em>
 </h3>
 
- <a href="https://github.com/devxb/gitanimals">
+
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/NishadMiah?pet-id=655367298048705301"
     width="600"
     height="120"
   />
 </a> 
+</br>
+</div>
 
 
 <p align="center">
@@ -158,6 +162,13 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 - ☕ Coffee fuels my creativity!
 
 ---
+
+<div align="center">
+
+### 🟢 SYSTEM STATUS: ONLINE  
+**Code quietly. Learn deeply. Build systems that last.**
+
+</div>
 
 <p align="center">
   <b>✨ Thanks for visiting! Looking to collaborate on your next mobile app project?<br>Let's build something amazing together — contact me today! 🚀</b>
