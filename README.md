@@ -6,7 +6,7 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 
 <!-- ==================== HERO SECTION ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&pause=900&color=F97316&center=true&vCenter=true&width=480&lines=Hello!+I'm+Md+Nishad+Miah;Flutter+%26+Mobile+App+Developer;Open+Source+Contributor;Bangladesh+|+Let's+Build+Together" alt="Md Nishad Miah Profile Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&pause=900&color=F97316&center=true&vCenter=true&width=480&lines=Hello!+I'm+Md+Nishad+Miah;Flutter+Mobile+App+Developer;From+Bangladesh+|+Let's+Build+Together" alt="Md Nishad Miah Profile Banner" />
 </p>
 
 <h1 align="center">🚀 Md Nishad Miah</h1>
