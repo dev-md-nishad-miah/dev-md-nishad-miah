@@ -63,10 +63,10 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 ⚡ 2+ Years | 40+ Projects | Startup & Freelance Experience  
 📍 Based in Rangpur | Available for Remote Work
 
-- 💼 Flutter Developer @ SM Technology | ex-Cellsweb IT Solutions Ltd  
+- 💼 Flutter Developer @ Betopia Group | ex-Cellsweb IT Solutions Ltd  
 - 🎓 Diploma in Computer Science, Rangpur Polytechnic Institute  
 - 🌐 Built apps for startups, clinics, governments, and international clients  
-- 🛠️ Tech: Flutter, Dart, React Native, Firebase, REST API, Android, Python  
+- 🛠️ Tech: Flutter, Dart, Java, Python, JavaScript, TypeScript, Firebase, Supabase, SQLite, REST APIs  
 
 > _Creativity, speed, and quality. I build seamless mobile experiences that delight users and scale businesses._
 
@@ -74,14 +74,15 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 
 ## 🚀 Featured Projects
 
-| Project | Description | Impact |
-| ------- | ----------- | ------ |
-| [Elouisa+](https://apps.apple.com/us/app/elouisa-app/id6755730965) | All-in-one streaming platform with movies, TV shows, and live TV. | 2000+ downloads, 4.8★ rating |
-| [TherapyGo](https://play.google.com/store/apps/details?id=com.bayridgespeechtherapy.therapygo) | 🩺 Appointment app for doctors/patients | Used by 20+ clinics |
-| [My Thai Halal](https://apps.apple.com/us/app/my-thai-halal/id6743726721) | Restaurant management system with real-time cart and order tracking. | In use by local government |
-| [Email-Marketing](https://github.com/NishadMiah/Email-Marketing) | 📧 Automated email marketing solution | 1000+ campaigns sent |
-| [webview_stripe_payment](https://github.com/NishadMiah/webview_stripe_payment) | 💳 Stripe payment integration | 5+ business integrations |
-| [Malooz](https://play.google.com/store/apps/details?id=apps.malooz.com) | 🔐 Ultimate streaming experience with 24/7 live TV, movies, series & events. | Secures 10+ apps |
+| Project | Description | Links |
+| ------- | ----------- | ----- |
+| **DealDrop** | 🛒 Community-driven app to find, save, and share local deals and discounts. | [<img src="https://img.shields.io/badge/Google_Play-00e5a0?style=flat&logo=google-play&logoColor=black" />](https://play.google.com/store/apps/details?id=com.blazeaura.bealbrop) |
+| **Elouisa+** | 🎬 All-in-one streaming platform with movies, TV shows, and live TV. | [<img src="https://img.shields.io/badge/App_Store-f472b6?style=flat&logo=apple&logoColor=white" />](https://apps.apple.com/us/app/elouisa-app/id6755730965) <br> [<img src="https://img.shields.io/badge/Google_Play-f472b6?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=app.kanalelouisa.elouisa) |
+| **TherapyGo** | 🩺 Healthcare appointment management with automated reminders & scheduling. | [<img src="https://img.shields.io/badge/App_Store-38bdf8?style=flat&logo=apple&logoColor=white" />](https://apps.apple.com/us/app/therapygo/id6710965444) <br> [<img src="https://img.shields.io/badge/Google_Play-38bdf8?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.bayridgespeechtherapy.therapygo) |
+| **My Thai Halal** | 🍜 Restaurant management system with real-time cart and order tracking. | [<img src="https://img.shields.io/badge/App_Store-fbbf24?style=flat&logo=apple&logoColor=black" />](https://apps.apple.com/us/app/my-thai-halal/id6743726721) |
+| **Malooz** | 📺 Ultimate streaming experience with 24/7 live TV, movies, series & events. | [<img src="https://img.shields.io/badge/Google_Play-a78bfa?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=apps.malooz.com) |
+| **Email-Marketing** | 📧 Automated email marketing solution. | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/NishadMiah/Email-Marketing) |
+| **webview_stripe_payment** | 💳 Stripe payment integration for webviews in Flutter. | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/NishadMiah/webview_stripe_payment) |
 
 ---
 
@@ -90,15 +91,19 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
 
-**Keywords:** GetX · Provider · Riverpod · Firebase Auth · Push Notifications · Payment Gateways · REST API · Maps · State Management · Project Management
+**Keywords:** BLoC · Riverpod · GetX · Redux · Firebase · Supabase · SQLite · Hive · REST APIs · AI Integration (LLMs/Gemini/OpenAI) · CI/CD · Git · Figma
 
 ---
 
@@ -124,19 +129,13 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 ## ⚡ GitHub Profile Details
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishadMiah&theme=dark&hide_border=false" alt="GitHub Streak" /> <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishadMiah&theme=radical" width="75%" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NishadMiah&theme=radical" width="40%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NishadMiah&theme=radical" width="40%" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NishadMiah&show_icons=true&theme=radical" alt="Nishad Miah's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishadMiah&layout=compact&theme=radical" alt="Nishad Miah's Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishadMiah&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
-
-<!--## 🗺️ GitHub Contribution Heatmap
-
-[![NishadMiah's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NishadMiah&theme=react-dark)](https://github.com/NishadMiah)
-
---->
 
 ## 🌐 Let's Connect
 
