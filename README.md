@@ -1,7 +1,7 @@
 <!--
 Md Nishad Miah | Flutter & Mobile App Developer | Bangladesh | Open Source | Portfolio | Freelancer
 
-SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Bangladesh, Portfolio, Open Source, React Native, Dart, Firebase, Android, Python, REST API, GitHub Projects, App Development, Freelancer, Hire, TherapyGo, PrimeMeet, velozaje, Remote Developer, Freelance Flutter
+SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Bangladesh, Portfolio, Open Source, React Native, Dart, Firebase, Android, Python, REST API, GitHub Projects, App Development, Freelancer, Hire, TherapyGo, DealDrop, Malooz, Elouisa+, My Thai Halal, Remote Developer, Freelance Flutter
 -->
 
 <!-- ==================== HERO SECTION ==================== -->
@@ -15,6 +15,12 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
   <em>Turning ideas into pixel-perfect experiences. Dream. Code. Launch.</em>
 </h3>
 
+<p align="center">
+  <a href="https://drive.google.com/uc?export=download&id=1AyHa47bca86y0k5wxJoTSciwCTFAceql" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Resume_/_CV-F97316?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume/CV" />
+  </a>
+</p>
+
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
@@ -24,14 +30,14 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
     height="120"
   />
 </a> 
-</br>
+<br />
 </div>
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter%20Certified-Expert-0FA36B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/2%2B%20Years-Experience-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/30%2B%20Projects-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/40%2B%20Projects-Completed-success?style=for-the-badge" />
 </p>
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Md Nishad Miah Coding | Flutter & Mobile Apps" width="340"/>
@@ -81,8 +87,6 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 | **TherapyGo** | 🩺 Healthcare appointment management with automated reminders & scheduling. | [<img src="https://img.shields.io/badge/App_Store-38bdf8?style=flat&logo=apple&logoColor=white" />](https://apps.apple.com/us/app/therapygo/id6710965444) <br> [<img src="https://img.shields.io/badge/Google_Play-38bdf8?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.bayridgespeechtherapy.therapygo) |
 | **My Thai Halal** | 🍜 Restaurant management system with real-time cart and order tracking. | [<img src="https://img.shields.io/badge/App_Store-fbbf24?style=flat&logo=apple&logoColor=black" />](https://apps.apple.com/us/app/my-thai-halal/id6743726721) |
 | **Malooz** | 📺 Ultimate streaming experience with 24/7 live TV, movies, series & events. | [<img src="https://img.shields.io/badge/Google_Play-a78bfa?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=apps.malooz.com) |
-| **Email-Marketing** | 📧 Automated email marketing solution. | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/NishadMiah/Email-Marketing) |
-| **webview_stripe_payment** | 💳 Stripe payment integration for webviews in Flutter. | [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/NishadMiah/webview_stripe_payment) |
 
 ---
 
@@ -111,7 +115,7 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
 
 - ✅ Certified Flutter Developer  
 - ✅ Android App Development Specialist  
-- 🏅 Delivered **30+ cross-platform apps** with **95% on-time delivery**  
+- 🏅 Delivered **40+ cross-platform apps** with **95% on-time delivery**  
 - 💬 *"Md Nishad delivered our app on time and exceeded expectations. Highly recommended!" — Client, TherapyGo*
 
 ---
@@ -155,7 +159,7 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
   <a href="https://github.com/NishadMiah" target="_blank" rel="noopener">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GitHub" />
   </a>
-  <a href="mailto:moonjur8@gmail.com?subject=Let's%20collaborate!">
+  <a href="mailto:nishadmiah.dev@gmail.com?subject=Let's%20collaborate!">
     <img src="https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail" height="30" alt="Email" />
   </a>
 </p>
