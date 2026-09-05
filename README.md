@@ -137,10 +137,6 @@ SEO Keywords: Md Nishad Miah, Flutter Developer, Mobile App Developer, Banglades
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NishadMiah&layout=compact&theme=radical" alt="Nishad Miah's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NishadMiah&theme=radical&hide_border=true" alt="Nishad Miah's GitHub Activity Graph" />
-</p>
-
 ---
 
 ## 🌐 Let's Connect
